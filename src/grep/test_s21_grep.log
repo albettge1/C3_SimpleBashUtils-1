@@ -1,0 +1,6 @@
+s21_grep.c:        for (int i = 1; argv[i][0] == '-'; i++) {
+s21_grep.c:            for (int i = 1; i < argc; i++) {
+s21_grep.c:    for (int i = 1; i < argc; i++) {
+s21_grep.c:    for (int i = 1; i < argc; i++) {
+s21_grep.c:    for (int i = 1; i < argc; i++) {
+Makefile:	clang-format --style=Google -i s21_grep.c
